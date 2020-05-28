@@ -1,0 +1,30 @@
+@media (max-width:1200px){
+    .container{
+        max-width: 970px;
+    }
+}
+@media (max-width:992px){
+     .container{
+         max-width: 750px;
+     }
+ }
+ @media (max-width:767px){
+     .container{
+         max-width: none;
+     }
+ }
+
+ .shopno {
+height: 806px;
+/*width: 1440px;*/
+ top: 63px;
+ left: 150px;
+background: #fc0;
+ }
+ .shopno p {
+ border: 7px solid red;
+ height: 46px;
+ width: 113px;
+
+   /*  padding: 10px 10px 10px 10px;*/
+ }
